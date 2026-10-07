@@ -2,16 +2,6 @@
 
 Dikemas dari fitur Pocket Book SLiMS yang diberikan pengguna menjadi plugin mandiri.
 
-Perubahan utama:
-- tidak perlu mengganti `admin/modules/bibliography/submenu.php`;
-- tidak perlu mengganti `print_settings.php`;
-- tidak perlu mengubah `printed_settings.inc.php`;
-- tidak perlu import SQL manual;
-- gambar `kantong.png` dibundel di dalam plugin;
-- pengaturan disimpan sendiri pada tabel `setting` dengan nama `kantong_buku_plugin_settings`;
-- route admin plugin tetap mempertahankan parameter `id` dan `mod`;
-- kompatibel dengan PHP 8.1.
-
 Fitur:
 - pencarian nomor inventaris, nomor panggil, dan judul;
 - paging 8 data per halaman;
