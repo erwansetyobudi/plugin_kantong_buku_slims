@@ -15,3 +15,5 @@ Instalasi:
 2. Aktifkan melalui System > Plugins.
 3. Buka menu Bibliography > Kantong Buku.
 
+# Hasil
+<img width="1343" height="649" alt="image" src="https://github.com/user-attachments/assets/1e134d9c-fb8a-4c52-ba67-8013631ef883" />
